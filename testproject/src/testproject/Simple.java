@@ -5,6 +5,7 @@ public class Simple {
 		// TODO Auto-generated method stub
 		System.out.println("Hi this is Sample java Program.");
 		System.out.println("This welcome to Simple classes.");
+		System.out.println("Hi this is another Line added.");
 
 	}
 }
